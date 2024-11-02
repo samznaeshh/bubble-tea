@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bubble-tea/static/css/main.eaf3ff8a.css",
+    "main.js": "/bubble-tea/static/js/main.c0e09293.js",
+    "index.html": "/bubble-tea/index.html",
+    "main.eaf3ff8a.css.map": "/bubble-tea/static/css/main.eaf3ff8a.css.map",
+    "main.c0e09293.js.map": "/bubble-tea/static/js/main.c0e09293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf3ff8a.css",
+    "static/js/main.c0e09293.js"
+  ]
+}
