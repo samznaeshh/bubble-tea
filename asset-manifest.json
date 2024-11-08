@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/bubble-tea/static/css/main.eaf3ff8a.css",
-    "main.js": "/bubble-tea/static/js/main.c0e09293.js",
+    "main.css": "/bubble-tea/static/css/main.36e237fd.css",
+    "main.js": "/bubble-tea/static/js/main.a3e1923f.js",
+    "static/media/left.png": "/bubble-tea/static/media/left.f722456a4849bb28c421.png",
+    "static/media/right.png": "/bubble-tea/static/media/right.8c65f7befaceef01baec.png",
+    "static/media/image.png": "/bubble-tea/static/media/image.ee0049acb281cab3bb37.png",
+    "static/media/bubble-tea.png": "/bubble-tea/static/media/bubble-tea.bb46713de32f6f033712.png",
+    "static/media/tapioka.png": "/bubble-tea/static/media/tapioka.98313a920d31a1578a9d.png",
+    "static/media/sirop.png": "/bubble-tea/static/media/sirop.44152884162bede39605.png",
+    "static/media/character.png": "/bubble-tea/static/media/character.a05dad131162f107c2ab.png",
     "index.html": "/bubble-tea/index.html",
-    "main.eaf3ff8a.css.map": "/bubble-tea/static/css/main.eaf3ff8a.css.map",
-    "main.c0e09293.js.map": "/bubble-tea/static/js/main.c0e09293.js.map"
+    "main.36e237fd.css.map": "/bubble-tea/static/css/main.36e237fd.css.map",
+    "main.a3e1923f.js.map": "/bubble-tea/static/js/main.a3e1923f.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaf3ff8a.css",
-    "static/js/main.c0e09293.js"
+    "static/css/main.36e237fd.css",
+    "static/js/main.a3e1923f.js"
   ]
 }
