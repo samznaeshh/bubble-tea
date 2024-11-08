@@ -74,13 +74,15 @@ button.auth {
   width: 35px;
   height: 35px;
 }
+.elem {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+}
 .search:hover, .basket:hover {
   cursor: pointer;
   color: #A5A6D4;
-  width: 34px;
-  height: 34px;
 }
-
 
 /* footer */
 
@@ -88,6 +90,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 20px;
 }
 
 .f_borders {

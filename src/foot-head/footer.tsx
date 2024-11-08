@@ -5,7 +5,7 @@ import { BsTelegram } from "react-icons/bs";
 import { FaInstagram } from "react-icons/fa6";
 import { FaFacebookMessenger } from "react-icons/fa";
 
-function Footer() {
+function footer() {
     return(
         <footer>
             <div className="f_borders">
@@ -39,4 +39,4 @@ function Footer() {
     )
 }
 
-export default Footer;
+export default footer;
